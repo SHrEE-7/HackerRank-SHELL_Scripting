@@ -1,4 +1,4 @@
-## ⛄Linux Shell Challenges on HackerRank 
+## Solutions for ⛄Linux Shell Challenges on HackerRank 
 
 <p align="center">  
 	<br>
