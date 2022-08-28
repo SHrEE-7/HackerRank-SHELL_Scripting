@@ -1,4 +1,4 @@
-## SHELL_Scripting
+## ⛄Linux Shell Challenges on HackerRank 
 
 <p align="center">  
 	<br>
